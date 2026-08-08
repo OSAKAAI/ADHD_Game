@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "465023639310",
+    "firebase_url": "https://adhdgameapp-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "adhdgameapp",
+    "storage_bucket": "adhdgameapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465023639310:android:1684bdea799c65df49415f",
+        "android_client_info": {
+          "package_name": "com.vaibhav.adhdgame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUSk95RBO149R_F9o7iyHsSkc_ifzdcWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
